@@ -1,0 +1,77 @@
+baseURL = "https://doc.antholont.ecrituresnumeriques.ca"
+disableKinds = ["taxonomy", "term", "taxonomyTerm"]
+relativeURLs = true
+languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
+title = "Projet Anthologie Palatine"
+copyright = "CRC sur les écritures numériques. CC BY-SA"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  [markup.blackfriday]
+    smartypantsQuotesNBSP = true
+    angledQuotes = true
+
+[params]
+  description = ""
+  licence = ""
+  date = ""
+  motscles = ""
+
+[permalinks]
+  pages = "/:filename"
+  textes = "/:filename"
+  biographies = "/:filename"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+
+[languages]
+  [languages.fr]
+    contentDir = "content/fr"
+    languageName = "Français"
+    weight = 10
+
+[menu]
+  [[menu.main]]
+    identifier = "index"
+    name       = "Projet Anthologie Palatine"
+    url        = "/"
+    weight     = -10
+
+  [[menu.main]]
+    identifier = "index"
+    name       = "À propos du projet"
+    url        = "/fr/a-propos"
+    weight     = -20
+
+  [[menu.main]]
+    identifier = "doc"
+    name       = "Documentation"
+    url        = "/fr/documentation"
+    weight     = -30
+
+  [[menu.main]]
+    identifier = "ressources"
+    name       = "Ressources et plateformes"
+    url        = "/fr/ressources"
+    weight     = -40
+
+  [[menu.main]]
+    identifier = "partenaires"
+    name       = "Partenaires"
+    url        = "/fr/partenaires"
+    weight     = -50
+
+  [[menu.main]]
+    identifier = "conferences"
+    name       = "Conférences et événements"
+    url        = "/fr/conferences"
+    weight     = -60
+
+  [[menu.main]]
+    identifier = "contacts"
+    name       = "Contacts"
+    url        = "/fr/contacts"
+    weight     = -70

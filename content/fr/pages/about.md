@@ -1,3 +1,6 @@
+---
+title: À propos
+---
 # Pour une édition collaborative de l'Anthologie Palatine
 
 ## Le projet
