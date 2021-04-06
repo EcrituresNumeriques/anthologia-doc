@@ -4,6 +4,7 @@
 ## Le projet
 "Pour une édition collaborative de l'Anthologie Palatine" est un projet de la [Chaire de recherche du Canada sur les écritures numériques](http://ecrituresnumeriques.ca) (dirigée par Marcello Vitali-Rosati) en collaboration avec Elsa Bochard. Le projet a reçu le financement ["Développement savoir"](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-subventions_de_developpement_savoir-fra.aspx) du CRSH.
 
+
 ## Le site du projet
 
 Sur ce site vous trouverez: 
