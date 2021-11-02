@@ -4,16 +4,17 @@ title: À propos
 # Pour une édition collaborative de l'Anthologie Palatine
 
 ## Le projet
-Le projet Anthologie Palatine (AP) est dirigé par la [Chaire de recherche du Canada sur les écritures numériques](http://lightiumdev.ecrituresnumeriques.ca/fr/) dirigée par [Marcello Vitali-Rosati](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Marcello-Vitali-Rosati-) en collaboration avec Elsa Bochard. Ce projet est celui d'une édition numérique collaborative de l'Anthologie Palatine, un recueil byzantin d'épigrammes grecques daté de la période hellénistique, et s'inscrit dans la lignée des "digital classics". Le projet a reçu le financement ["Développement savoir"](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-subventions_de_developpement_savoir-fra.aspx) du CRSH.
+Le projet Anthologie Palatine (AP) est dirigé par la [Chaire de recherche du Canada sur les écritures numériques](http://lightiumdev.ecrituresnumeriques.ca/fr/) dirigée par [Marcello Vitali-Rosati](http://ecrituresnumeriques.ca/fr/Equipe/Marcello-Vitali-Rosati-) en collaboration avec Elsa Bochard. Ce projet est celui d'une édition numérique collaborative de l'Anthologie Palatine, un recueil byzantin d'épigrammes grecques daté de la période hellénistique, et s'inscrit dans la lignée des "digital classics". Le projet a reçu le financement ["Développement savoir"](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-subventions_de_developpement_savoir-fra.aspx) du CRSH.
 
 Ce projet réuni plusieurs chercheur·e·s dont : 
 - [Elsa Bouchard](https://www.crihn.org/membres/bouchard-elsa/)
-- [Enrico Agostini-Marchese](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Enrico-Agostini-Marchese)
-- [Nicolas Sauret](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Nicolas-Sauret)
-- [Servanne Monjour](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Servanne-Monjour)
-- [Arthur Juchereau](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Arthur-Juchereau)
-- [Joana Casenave](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Joana-Casenave)
-- [Margot Mellet](http://lightiumdev.ecrituresnumeriques.ca/fr/Equipe/Margot-Mellet)
+- [Mathilde Verstraete](https://ecrituresnumeriques.ca/fr/Equipe/Mathilde-Verstraete)
+- [Enrico Agostini-Marchese](http://ecrituresnumeriques.ca/fr/Equipe/Enrico-Agostini-Marchese)
+- [Nicolas Sauret](http://ecrituresnumeriques.ca/fr/Equipe/Nicolas-Sauret)
+- [Servanne Monjour](http://ecrituresnumeriques.ca/fr/Equipe/Servanne-Monjour)
+- [Arthur Juchereau](http://ecrituresnumeriques.ca/fr/Equipe/Arthur-Juchereau)
+- [Joana Casenave](http://ecrituresnumeriques.ca/fr/Equipe/Joana-Casenave)
+- [Margot Mellet](http://ecrituresnumeriques.ca/fr/Equipe/Margot-Mellet)
 
 Dans le cadre de ce projet a été pensée et conçue une base de données ouverte, interrogeable via une API qui permet notamment de :
 
