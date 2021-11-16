@@ -1,6 +1,126 @@
-# Documentation
+# Documentation technique de la plateforme [*Anthologia Graeca*](http://anthologiagraeca.org/)
 
-## Utilisation de la plateforme *Anthologia*
+Par défaut la plateforme est en français mais elle est disponible en plusieurs langues : en haut de page se trouve l'onglet "Langage" qui permet de sélectionner une autre langue de l'interface. 
+
+## Connexion et création de compte 
+
+L'utilisateur.trice type sera désigné.e sous le nom *Méléagre*. 
+
+Méléagre arrive sur la page de plateforme. 
+Sur la page d'accueil sont listées les épigrammes de l'Anthologie grecque organisées par livres. 
+
+Pour éditer les informations de la plateforme, Méléagre doit se connecter avec un compte d'utilisateur.trice. 
+
+En haut de la page, à droite, il a accès à l'onglet "Compte" pour créer un nouveau compte ou se connecter à un compte déjà existant. 
+
+Pour créer un nouveau compte, Méléagre doit faire la demande en communiquant avec : [adresse].
+
+<!--Pour la création d'un nouveau compte, Méléagre doit renseigner : 
+
+- Son username - obligatoire
+- Son prénom - facultatif
+- Son nom - facultatif
+- Son adresse mail - facultatif
+- Son mot de passe
+- Son institution - facultatif
+- Sa langue préférée - facultatif - à implémenter dans le modèle user?
+- Son édition par défaut - facultatif - à implémenter dans le modèle user?
+
+Une fois qu'il a renseigné les champs obligatoire il peut automatiquement créer son compte et se connecter (il aura des permissions d'utilisateur normal). -->
+
+Une fois connecté, Méléagre <!--a accès à sa [page user] et--> peut se déconnecter s'il le souhaite en cliquant sur l'onglet à son nom d'utilisateur et en sélectionnant "Déconnexion". 
+
+<!--## Liste des tâches 
+
+Méléagre se voit proposer des tâches à remplir pour participer à la plateforme. -->
+
+## Page Épigramme 
+
+Chaque épigramme a sa propre page sur la plateforme. 
+
+Sur la page d'une épigramme, Méléagre trouve plusieurs informations : 
+
+- le titre de l'épigramme comprenant sa localisation dans l'Anthologie grecque 
+
+> exemple : l'épigramme 1.19 est l'épigramme 19 du livre 1.
+
+- l'URN de l'épigramme : c'est l'identifiant de l'épigramme dans la plateforme Perseus à partir de laquelle les textes grecs ont été récupérés.
+
+>exemple : l'épigramme 1.19 a l'URN "urn:cts:greekLit:tlg7000.tlg001" et est indexée dans le catalogue de Perseus ici : https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg7000.tlg001.
+
+- la date de création de l'épigramme, par qui l'épigramme a été créée et la date de la mise à jour de l'épigramme
+
+- la section description
+
+- une image du manuscrit Codex Palatinus 23 où se trouve l'épigramme. La légende de l'image renvoie à la page de l'épigramme dans le manuscrit
+
+- la section textes présente les différents matériaux textuels de l'épigramme : les versions grecques et les traductions (grc pour le grec, fra pour le français, eng pour l'anglais, it pour l'italien, port pour le portugais).
+
+En sélectionnant les différents onglets des versions, Méléagre peut personnaliser sa lecture. 
+
+- la ville : les lieux associés ou mentionnés par l'épigramme
+
+- les mots-clefs : les mots-clefs associés à l'épigramme organisés par catégorie. 
+
+En cliquant sur un mot-clef, Méléagre accède à la page du mot-clef qui liste les épigrammes communes. 
+
+- la section scholia : liste les scholies de l'épigramme, les images des scholies dans le manuscrit Codex Palatinus.
+
+En cliquant sur le titre de la scholie, Méléagre accède à la page de la scholie. 
+
+- la section alignement lie les mots entre les différentes versions de l'épigramme. 
+
+En sélectionnant les onglets, Méléagre peut choisir l'alignement à lire. 
+
+- les références internes présentent les références entre les épigrammes. 
+
+En cliquant sur le titre de l'épigramme en référence interne, Méléagre accède à la page de l'épigramme associée. 
+
+- les références externes sont les liens entre l'épigrammes et des contenus culturels externes à l'Anthologie grecque. 
+
+Méléagre, peut en cliquant sur la barre de navigation, accèder à l'épigramme précédente ou suivante. 
+
+## Édition 
+
+Sur le côté de chacune des sections, une icône plus permet à Méléagre d'ajouter des contenus. 
+
+### Mot-clef 
+
+Les mots-clés dans la plateforme doivent être liés aux identifiants de Wikidata.
+
+Pour effectuer cet alignement dans la plateforme, vous pouvez remplir un tableau en ligne sur Google drive. Dans le document, vous devrez remplir la colonne "wikidata" avec l'identifiant correspondant au mot-clé sur la ligne : pour cela, vous devez copier et coller l'url complète de la page wikidata correspondante.
+
+Exemple : pour le mot-clé "érotique" dans la catégorie de mots-clés "Genra", l'identifiant wikidata est "https://www.wikidata.org/wiki/Q747483".
+
+Les catégories de mots-clés qui sont concernées par l'alignement sont les suivantes :
+
+    Divinités / Divinities
+    Poètes cités / Quoted poets
+    Ages / Époques
+    Metric forms / Formes métriques
+    Personnages mythiques / Mythical characters
+    Famous people / Personnages célèbres
+
+Important : Pour voir clairement les catégories de mots-clés et les épigrammes qui y sont liées, rendez-vous sur la plateforme antique.
+
+Les documents correspondant aux catégories vous seront communiqués afin que vous puissiez procéder à l'alignement.
+
++ pour l'identifiant TLG (uniquement pour la catégorie Poètes cités), vous le trouverez sur la page Wikidata.
+
+
+
+## Menu 
+Sur la barre de tête, un onglet de menu vous permet :
+
+    de revenir à la page d'accueil listant les épigrammes par livre
+    de consulter la liste des auteurs de l'anthologie
+    de consulter la liste des villes par ordre alphabétique.
+
+Chaque page de ville présente si elle est éditée le nom de la ville en plusieurs langues, les épigrammes qui s'y rapportent, la scholie qui s'y rapporte, l'auteur qui s'y rapporte si la ville est son lieu de naissance ou de décès.
+
+    pour consulter la liste des mots-clés organisée par catégories de mots-clés
+
+## Édition 
 
 La [plateforme Anthologia](https://anthologia.ecrituresnumeriques.ca) permet d'ajouter et d'éditer des informations à la base de données du projet. Ces informations ajoutées peuvent concerner une épigramme issue de l'AP, mais peuvent également consister en l'édition d'un texte étranger à l'Anthologie (comme c'est le cas avec un [extrait du chant 23 de l'*Iliade*](https://anthologia.ecrituresnumeriques.ca/entities/441))
 
