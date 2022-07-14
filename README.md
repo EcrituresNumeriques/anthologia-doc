@@ -11,7 +11,7 @@ Onglet : **Le projet** directement sur la plateforme Anthologiagraeca
 - Documentation technique   
 	- Fonctionnement de la plateforme (?)
 	- Comment éditer la plateforme 
-- Ressources et communications  
+- Ressources 
 	- Lien vers Heidelberg
 	- Lien vers Zotero  
 	- Lien vers POP 
@@ -21,3 +21,8 @@ Onglet : **Le projet** directement sur la plateforme Anthologiagraeca
 	- Conférences passées  
 	- Articles parus 
 - Équipe et partenaires    
+
+
+## Todo @Mathilde 
+- [ ] vérifier documentation-technique, API (notammet *endpoints*)
+- [ ] relecture 
