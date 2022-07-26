@@ -1,5 +1,6 @@
 ---
 title: Communications 
+date: 2022-07-27
 ---
 
 # Événements à venir 
@@ -15,7 +16,7 @@ title: Communications
 
 - Enrico Agostini-Marchese, Elsa Bouchard, Joana Casenave, Arthur Juchereau, Nicolas Sauret et Marcello Vitali-Rosati, « Une plateforme pour le livre anthologique à l'époque numérique. Le cas de l'Anthologie Palatine », ECRIDIL, Montréal, 30/04/2018
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lQ_cqfWLbQ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br/>
+
 - Mellet Margot, « A.P. POP », Colloque du CRIHN, Montréal, 27/10/2018 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YK21jideSTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -39,5 +40,5 @@ title: Communications
 - [Midnight in Paris, l’Anthologie Palatine et la conjoncture médiatrice](http://blog.sens-public.org/marcellovitalirosati/midnight-in-paris-lanthologie-palatine-et-la-conjoncture-mediatrice/)
 
 # Autre
-Vidéo réalisée par le Lycée d'État N. Cagnazzi d'Altamura présentant le projet *Antologia Palatina* en collaboration avec la Chaire de recherche du Canada sur les écritures numériques de l'Université de Montréal<br />
+Vidéo réalisée par le Lycée d'État N. Cagnazzi d'Altamura présentant le projet *Antologia Palatina* en collaboration avec la Chaire de recherche du Canada sur les écritures numériques de l'Université de Montréal
 <iframe width="560" height="315" src="https://archive.org/details/videoantologiapalatinadef" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

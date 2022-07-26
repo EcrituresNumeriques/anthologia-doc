@@ -1,5 +1,6 @@
 ---
 title: Équipe et partenaires
+date: 2022-07-27
 ---
 
 ## L'équipe 
@@ -42,7 +43,7 @@ Ce projet réuni plusieurs chercheur·e·s dont :
 
 ## Les partenaires
 
-- [La Chaire de recherc8he du Canada sur les écritures numériques -Université de Montéal](http://ecrituresnumeriques.ca)
+- [La Chaire de recherche du Canada sur les écritures numériques - Université de Montéal](http://ecrituresnumeriques.ca)
 - [CRIHN](http://crihn.org/)
 - [GREN](https://gren.openum.ca/)
 - [Perseus](http://www.perseus.tufts.edu/hopper/)

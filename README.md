@@ -24,6 +24,6 @@ Onglet : **Le projet** directement sur la plateforme Anthologiagraeca
 
 
 ## Todo @Mathilde 
-- [ ] vérifier documentation-technique, API (notamment *endpoints*)
-- [ ] ajouter un point sur les éditions utilisées
-- [ ] relecture 
+- [ ] ajouter documentation-technique, API 
+- [ ] compléter point sur les éditions utilisées
+- [ ] relecture @marcello ?
