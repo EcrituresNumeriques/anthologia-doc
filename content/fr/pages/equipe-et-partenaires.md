@@ -1,6 +1,5 @@
 ---
 title: Équipe et partenaires
-date: 2022-07-27
 ---
 
 ## L'équipe 
@@ -53,17 +52,17 @@ Ce projet réuni plusieurs chercheur·e·s dont :
 
 ## Financements 
 
-- 2022 - 2024 
-Le projet a reçu un financement ["Subventions de développement Savoir"](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-subventions_de_developpement_savoir-fra.aspx) du Conseil de Recherches en Sciences Humaines du Canada [CRSH](http://www.sshrc-crsh.gc.ca).
-
 - 2019 - 2025 
 Le projet a reçu un financement ["Subventions savoir"](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_grants-subventions_savoir-fra.aspx) du Conseil de Recherches en Sciences Humaines du Canada [CRSH](http://www.sshrc-crsh.gc.ca).
 
 - 2017 - 2019 
 Le projet a reçu un financement ["Subventions de développement Savoir"](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-subventions_de_developpement_savoir-fra.aspx) du Conseil de Recherches en Sciences Humaines du Canada (CRSH).
 
+> L'organisation des journées d'études [Navigations anthologiques : l'*Anthologie grecque* à l'heure des Digital Classics](https://navigations.ecrituresnumeriques.ca/) (27-29 octobre 2022), a reçu un financement ["Subventions de développement Savoir" 2022-2024](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/insight_development_grants-subventions_de_developpement_savoir-fra.aspx) du Conseil de Recherches en Sciences Humaines du Canada [CRSH](http://www.sshrc-crsh.gc.ca).
+
+
 ## Nous contacter 
 
 Pour plus d'informations, vous pouvez nous contacter à l'[adresse email de la chaire](mailto:crc.ecrituresnumeriques@gmail.com) ou contacter directement [Marcello Vitali-Rosati](mailto:marcello.vitali.rosati@umontreal.ca) (directeur du projet) ou [Mathilde Verstraete](mailto:mathilde.verstraete@umontreal.ca) (coordinatrice).
 
-Nous prendrons en considération des demandes spécifiques d'adaptation de l'API à des exigences de recherche particulières - par exemple l'adaptation à un autre corpus.
+Nous prendrons en considération des demandes spécifiques d'adaptation de l'API à des exigences de recherche particulières -- par exemple l'adaptation à un autre corpus.

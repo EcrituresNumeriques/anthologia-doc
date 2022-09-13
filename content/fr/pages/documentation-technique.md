@@ -1,11 +1,10 @@
 ---
 title: Prise en main de la plateforme
-date: 2022-07-27
 ---
 
-# La plateforme Anthologia Graeca
+## La plateforme Anthologia Graeca
 
-## Connexion et création de compte 
+### Connexion et création de compte 
 
 L'utilisateur·trice type sera désigné·e sous le nom *Méléagre*. Par défaut, la plateforme est en français mais elle est disponible en plusieurs langues : en haut de page se trouve l'onglet "Langage" qui permet de sélectionner une autre langue d'interface. 
 
@@ -42,7 +41,7 @@ Pour se déconnecter, il lui suffira de cliquer sur son nom d'utilisateur (appar
 
 Méléagre se voit proposer des tâches à remplir pour participer à la plateforme. -->
 
-## Page Épigramme 
+### Page Épigramme 
 
 Chaque épigramme correspond à une entité abstraite, et chaque entité possède sa propre page sur la plateforme. Dès lors, une épigramme = une entité = une page. 
 
@@ -92,7 +91,7 @@ Méléagre peut consulter les dernières modifications apportées à une épigra
 
 Méléagre peut, en cliquant sur la barre de navigation en bas de page, accéder à l'épigramme précédente ou suivante. 
 
-## Menu 
+### Menu 
 
 Dans l'en-tête, un onglet de menu vous permet :
 
@@ -101,7 +100,7 @@ Dans l'en-tête, un onglet de menu vous permet :
 - de consulter la liste des villes mentionnées dans l'*Anthologie*. Quand une ville est éditée, Méléagre y trouve les épigrammes et scholies qui l'évoquent, ainsi que les auteurs qui y sont nés ou morts. 
 - de consulter la liste des mots-clés, classés par catégorie, ainsi que les épigrammes qui sont caractérisées par chacun des mots-clés.
 
-## Édition 
+### Édition 
 
 Sur le côté de chacune des sections, une icône "+" permet à Méléagre d'ajouter des contenus. Tout utilisateur peut ajouter et éditer des contenus. Il n'est pas possible de modifier les informations créées par un autre utilisateur (à moins d'avoir des privilèges d'administrateur). 
 
@@ -110,12 +109,12 @@ Si vous désirez annoter et ajouter les images du manuscrit, veuillez prendre co
 
 Si vous trouvez des erreurs dans la plateforme, veuillez [nous les signaler](mailto:mathilde.verstraete@umontreal.ca)
 
-## À vous de jouer 
+### À vous de jouer 
 
 À vous de prendre en main la plateforme !
 
 Pour toute question, remarque, ou commentaire, vous pouvez contacter la [Chaire de Recherche du Canada sur les Écritures Numériques](mailto:crc.ecrituresnumeriques@gmail.com), [Marcello Vitali-Rosati](mailto:marcello.vitali.rosati@umontreal.ca) (directeur du projet) ou [Mathilde Verstraete](mailto:mathilde.verstraete@umontreal.ca) (coordinatrice).
 
-# L'API 
+## L'API 
 
-Méléagre peut faire des requêtes et interroger l'[API](https://anthologiagraeca.org/api/) via le langage de requête GraphQL.
+Méléagre peut faire des requêtes et interroger l'[API](https://anthologiagraeca.org/api/) en JSON.

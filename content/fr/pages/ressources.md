@@ -1,6 +1,5 @@
 ---
 title: Ressources
-date: 2022-07-27
 --- 
 
 ## Le manuscrit 
